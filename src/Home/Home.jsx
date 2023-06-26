@@ -123,7 +123,7 @@ Education now more easy then before..!
     <span className="visually-hidden">Next</span>
   </button>
 </div> 
-      <div classNameName="container" style={{ textAlign: "center" }}>
+      <div className="container" style={{ textAlign: "center" }}>
       <div className="col-lg-12 text-center"><h2 className="section-title">What <span className="has-line">We Offer</span></h2></div>
         <div className="container my-4" id="demo">
           <div className="row">
@@ -264,7 +264,7 @@ Education now more easy then before..!
                   <h2 className="card-subtitle mb-2 text-body-secondary">
                     Home Tutoring
                   </h2>
-                  <p classNameName="mt-20">
+                  <p className="mt-20">
                     {" "}
                     His exquisite sincerity education shameless ten earnestly
                     breakfast. Scale began quiet up short wrong in Personal
@@ -304,39 +304,40 @@ Education now more easy then before..!
           </div>
         </div>
       </div>
-      <section classNameName="section-padding pt-0 bg-light has-white-half">
-        <div classNameName="container">
-          <div classNameName="row justify-content-center">
-            <div classNameName="col-lg-9">
-              <div classNameName="text-center">
+      <br/>
+      <section className="section-padding pt-0 bg-light has-white-half">
+        <div className="container">
+          <div className="row justify-content-center">
+            <div className="col-lg-9">
+              <div className="text-center">
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
                   href=" https://youtu.be/c5Zag_QVRVs"
-                  classNameName="d-block has-overlay has-video-popup tansform-none"
+                  className="d-block has-overlay has-video-popup tansform-none"
                 >
                   <img
-                    classNameName="img-fluid rounded"
+                    className="img-fluid rounded"
                     src="https://tse2.mm.bing.net/th?id=OIP.X52MxFnfHu-qEWyNc9vZjAHaDm&pid=Api&P=0&h=180"
                     alt=""
                   />
                   <img
-                    classNameName="play-btn"
+                    className="play-btn"
                     src="https://s7template.com/react/eduskills/assets/images/video-btn.png"
                     alt=""
                   />
                 </a>
-                <h2 classNameName="section-title mt-50 mb-25">
+                <h2 className="section-title mt-50 mb-25">
                   What Some Awesome Parent Says{" "}
-                  <span classNameName="has-line">About Us</span>
+                  <span className="has-line">About Us</span>
                 </h2>
-                <p classNameName="mb-40">
+                <p className="mb-40">
                   Weddings and any opinions suitable smallest nay. My he houses
                   or months settle remove <br /> ladies appear. Engrossed
                   suffering supposing he recommend.
                 </p>
                 <a
-                  classNameName="btn btn-lg btn-secondary rounded-pill"
+                  className="btn btn-lg btn-secondary rounded-pill"
                   href="#/about-one"
                 >
                   About Us
@@ -348,60 +349,60 @@ Education now more easy then before..!
       </section>
       <div>
         <br />
-        <section classNameName="section-padding">
-          <div classNameName="container">
-            <div classNameName="row justify-content-center">
-              <div classNameName="col-lg-8 text-center">
-                <h2 classNameName="section-title">
-                  How <span classNameName="has-line">It Works</span> <br /> For
+        <section className="section-padding">
+          <div className="container" style={{ textAlign: "center" }}>
+            <div className="row justify-content-center">
+              <div className="col-lg-8 text-center">
+                <h2 className="section-title">
+                  How <span className="has-line">It Works</span> <br /> For
                   Students/Parents?
                 </h2>
               </div>
             </div>
-            <div classNameName="row justify-content-center">
-              <div classNameName="col-lg-4 col-sm-6 mt-40">
-                <div classNameName="how-it-works-item text-center shadow">
+            <div className="row justify-content-center">
+              <div className="col-lg-4 col-sm-6 mt-40">
+                <div className="how-it-works-item text-center shadow">
                   {" "}
                   <img
                     src="	https://s7template.com/react/eduskills/assets/images/how-it-works/01.png"
                     alt=""
                   />
-                  <h3 classNameName="mt-20 font-weight-600 text-secondary">
+                  <h3 className="mt-20 font-weight-600 text-secondary">
                     Tell Us Where You <br /> Need Help
                   </h3>
-                  <p classNameName="mt-20">
+                  <p className="mt-20">
                     His exquisite sincerity education shameless ten earnestly
                     breakfast. Scale began quiet up short wrong in Personal
                     attention.
                   </p>
                 </div>
               </div>
-              <div classNameName="col-lg-4 col-sm-6 mt-40">
-                <div classNameName="how-it-works-item text-center shadow">
+              <div className="col-lg-4 col-sm-6 mt-40">
+                <div className="how-it-works-item text-center shadow">
                   <img
                     src="https://s7template.com/react/eduskills/assets/images/how-it-works/02.png"
                     alt=""
                   />
-                  <h3 classNameName="mt-20 font-weight-600 text-secondary">
+                  <h3 className="mt-20 font-weight-600 text-secondary">
                     Choose The Tutor <br /> You Want
                   </h3>
-                  <p classNameName="mt-20">
+                  <p className="mt-20">
                     His exquisite sincerity education shameless ten earnestly
                     breakfast. Scale began quiet up short wrong in Personal
                     attention.
                   </p>
                 </div>
               </div>
-              <div classNameName="col-lg-4 col-sm-6 mt-40">
-                <div classNameName="how-it-works-item text-center shadow">
+              <div className="col-lg-4 col-sm-6 mt-40">
+                <div className="how-it-works-item text-center shadow">
                   <img
                     src="https://s7template.com/react/eduskills/assets/images/how-it-works/03.png"
                     alt=""
                   />
-                  <h3 classNameName="mt-20 font-weight-600 text-secondary">
+                  <h3 className="mt-20 font-weight-600 text-secondary">
                     Book A Tutor <br /> Start Lesson
                   </h3>
-                  <p classNameName="mt-20">
+                  <p className="mt-20">
                     His exquisite sincerity education shameless ten earnestly
                     breakfast. Scale began quiet up short wrong in Personal
                     attention.
@@ -413,29 +414,29 @@ Education now more easy then before..!
         </section>
         <br />
         <br />
-        <section classNameName="section-padding pt-0">
-          <div classNameName="container">
-            <div classNameName="row align-items-center">
-              <div classNameName="col-lg-7 text-center">
+        <section className="section-padding pt-0">
+          <div className="container">
+            <div className="row align-items-center">
+              <div className="col-lg-7 text-center">
                 <img
-                  classNameName="img-fluid"
+                  className="img-fluid"
                   src="https://tse2.mm.bing.net/th?id=OIP.YGyllfJF6SZVUZpIOm9ptgHaC9&pid=Api&P=0&h=180"
                   alt=""
                 />
               </div>
-              <div classNameName="col-lg-5 mt-5 mt-lg-0">
-                <h2 classNameName="section-title mb-30">
+              <div className="col-lg-5 mt-5 mt-lg-0">
+                <h2 className="section-title mb-30">
                   Request A className{" "}
-                  <span classNameName="has-line">for FREE Trail</span>
+                  <span className="has-line">for FREE Trail</span>
                 </h2>
-                <p classNameName="mb-4">
+                <p className="mb-4">
                   Weddings and any opinions suitable smallest nay. My he houses
                   or months settle remove ladies appear. Engrossed suffering
                   supposing he recommend. Commanded no of depending extremity
                   recommend attention tolerably.
                 </p>
                 <a
-                  classNameName="btn btn-lg btn-secondary rounded-pill initiate-scripts"
+                  className="btn btn-lg btn-secondary rounded-pill initiate-scripts"
                   href="#/home-one"
                 >
                   Search Tutor
@@ -448,91 +449,91 @@ Education now more easy then before..!
       <br />
       <br />
       <br />
-      <div classNameName="container" style={{ backgroundColor: "grey" }}>
-        <div classNameName="row justify-content-center">
-          <div classNameName="col-lg-8 text-center">
-            <h2 classNameName="container" style={{ color: "black" }}>
-              Find <span classNameName="has-line">Online Tutors</span>
+      <div className="container" style={{ backgroundColor: "grey" }}>
+        <div className="row justify-content-center">
+          <div className="col-lg-8 text-center">
+            <h2 className="container" style={{ color: "black" }}>
+              Find <span className="has-line">Online Tutors</span>
               <br /> In Any Subject
             </h2>
           </div>
         </div>
-        <div classNameName="row">
-          <div classNameName="col-lg-3 col-md-4 col-6">
-            <div classNameName="mt-40 text-center hover-grayscale">
+        <div className="row">
+          <div className="col-lg-3 col-md-4 col-6">
+            <div className="mt-40 text-center hover-grayscale">
               <img
                 src="https://tse3.mm.bing.net/th?id=OIP.E769XUeZHFBeRjEnmhG4HgHaFS&pid=Api&P=0&h=180"
                 alt=""
               />
-              <h3 classNameName="mt-15 font-weight-600">Math</h3>
+              <h3 className="mt-15 font-weight-600">Math</h3>
             </div>
           </div>
-          <div classNameName="col-lg-3 col-md-4 col-6">
-            <div classNameName="mt-40 text-center hover-grayscale">
+          <div className="col-lg-3 col-md-4 col-6">
+            <div className="mt-40 text-center hover-grayscale">
               <img
                 src="https://s7template.com/react/eduskills/assets/images/subject/02.png"
                 alt=""
               />
-              <h3 classNameName="mt-15 font-weight-600">English</h3>
+              <h3 className="mt-15 font-weight-600">English</h3>
             </div>
           </div>
-          <div classNameName="col-lg-3 col-md-4 col-6">
-            <div classNameName="mt-40 text-center hover-grayscale">
+          <div className="col-lg-3 col-md-4 col-6">
+            <div className="mt-40 text-center hover-grayscale">
               <img
                 src="https://tse2.mm.bing.net/th?id=OIP.BOafAA8YrPDy-qQgojOFIgHaFj&pid=Api&P=0&h=180"
                 alt=""
               />
-              <h3 classNameName="mt-15 font-weight-600">Kannada</h3>
+              <h3 className="mt-15 font-weight-600">Kannada</h3>
             </div>
           </div>
-          <div classNameName="col-lg-3 col-md-4 col-6">
-            <div classNameName="mt-40 text-center hover-grayscale">
+          <div className="col-lg-3 col-md-4 col-6">
+            <div className="mt-40 text-center hover-grayscale">
               <img
                 src="https://tse3.mm.bing.net/th?id=OIP.cwnPtICHZCmKYmPF1yaPOwAAAA&pid=Api&P=0&h=180"
                 alt=""
               />
-              <h3 classNameName="mt-15 font-weight-600">Social</h3>
+              <h3 className="mt-15 font-weight-600">Social</h3>
             </div>
           </div>
-          <div classNameName="col-lg-3 col-md-4 col-6">
-            <div classNameName="mt-40 text-center hover-grayscale">
+          <div className="col-lg-3 col-md-4 col-6">
+            <div className="mt-40 text-center hover-grayscale">
               <img
                 src="https://s7template.com/react/eduskills/assets/images/subject/05.png"
                 alt=""
               />
-              <h3 classNameName="mt-15 font-weight-600">Science</h3>
+              <h3 className="mt-15 font-weight-600">Science</h3>
             </div>
           </div>
-          <div classNameName="col-lg-3 col-md-4 col-6">
-            <div classNameName="mt-40 text-center hover-grayscale">
+          <div className="col-lg-3 col-md-4 col-6">
+            <div className="mt-40 text-center hover-grayscale">
               <img
                 src="https://s7template.com/react/eduskills/assets/images/subject/06.png"
                 alt=""
               />
-              <h3 classNameName="mt-15 font-weight-600">Computer Science</h3>
+              <h3 className="mt-15 font-weight-600">Computer Science</h3>
             </div>
           </div>
-          <div classNameName="col-lg-3 col-md-4 col-6">
-            <div classNameName="mt-40 text-center hover-grayscale">
+          <div className="col-lg-3 col-md-4 col-6">
+            <div className="mt-40 text-center hover-grayscale">
               <img
                 src="https://tse2.mm.bing.net/th?id=OIP.7DndHmUDg-LzL9GfbeVTXwHaEF&pid=Api&P=0&h=180"
                 alt=""
               />
-              <h3 classNameName="mt-15 font-weight-600">Hindi</h3>
+              <h3 className="mt-15 font-weight-600">Hindi</h3>
             </div>
           </div>
-          <div classNameName="col-lg-3 col-md-4 col-6">
-            <div classNameName="mt-40 text-center hover-grayscale">
+          <div className="col-lg-3 col-md-4 col-6">
+            <div className="mt-40 text-center hover-grayscale">
               <img
                 src="https://tse3.mm.bing.net/th?id=OIP.BgWmZesyek43Jrq5LglhWwAAAA&pid=Api&P=0&h=180"
                 alt=""
               />
-              <h3 classNameName="mt-15 font-weight-600">General knowledge</h3>
+              <h3 className="mt-15 font-weight-600">General knowledge</h3>
             </div>
           </div>
-          <div classNameName="col-lg-12 text-center mt-80">
+          <div className="col-lg-12 text-center mt-80">
             <Link
-              classNameName="btn btn-lg  btn-dark rounded-pill initiate-scripts"
+              className="btn btn-lg  btn-dark rounded-pill initiate-scripts"
               to="/onlineCource"
             >
               See all Subjects

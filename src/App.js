@@ -11,6 +11,7 @@ import About2 from './About/About2';
 import Cousce from './Cousce';
 import Blog from './Blog';
 import Contactus from './Contactus'
+
 function App() {
   return (
     <>
@@ -28,6 +29,7 @@ function App() {
     <Route exact path="/Blog" element={<Blog/>} />
     <Route exact path="/Contactus" element={<Contactus/>} />
    </Routes>
+ 
   </Router>
     </>
   );
